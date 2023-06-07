@@ -1,2 +1,3 @@
-# nayttelyjaos.github.io
+# Näyttelyjaos
+
 Virtuaalinen Näyttelyjaos
