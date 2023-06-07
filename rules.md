@@ -1,3 +1,7 @@
+layout: page
+title: "rules"
+permalink: /rules
+
 # Säännöt ja ohjeet järjestäjille
 
 8/21 alkaen järjestäjä on velvollinen linkittämään kutsuun kaikki luokkatulokset, mikäli näyttelyissä on eri luokkatuomari ja päätuomari
